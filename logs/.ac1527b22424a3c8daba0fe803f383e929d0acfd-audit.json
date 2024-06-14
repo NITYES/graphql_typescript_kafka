@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "/home/user/learn/noticeperiod/sadhustay/logs/.ac1527b22424a3c8daba0fe803f383e929d0acfd-audit.json",
+    "files": [
+        {
+            "date": 1718271487417,
+            "name": "/home/user/learn/noticeperiod/sadhustay/logs/application-2024-06-13-15.log",
+            "hash": "f34f6a6ebf86a906eb1f6e84b191a8dde1dd65e4ecaa4809480118e2a83acd0a"
+        },
+        {
+            "date": 1718283891771,
+            "name": "/home/user/learn/noticeperiod/sadhustay/logs/application-2024-06-13-18.log",
+            "hash": "dd4e8970c4887b42f698cd8b26d8c9e5c3f1486165d17fddcc633af246e8bb00"
+        }
+    ],
+    "hashType": "sha256"
+}

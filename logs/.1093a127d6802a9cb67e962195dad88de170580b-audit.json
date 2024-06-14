@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 1
+    },
+    "auditLog": "/home/user/learn/noticeperiod/sadhustay/logs/.1093a127d6802a9cb67e962195dad88de170580b-audit.json",
+    "files": [
+        {
+            "date": 1713862884083,
+            "name": "/home/user/learn/noticeperiod/sadhustay/logs/application-2024-04-23-14.log",
+            "hash": "1a01e7c9b92405277ee039ae24f545b93fdc622729e684757778478f11ba1b60"
+        }
+    ],
+    "hashType": "sha256"
+}
